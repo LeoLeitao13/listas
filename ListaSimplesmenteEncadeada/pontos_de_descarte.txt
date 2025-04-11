@@ -1,0 +1,5 @@
+Shopping Center, Plástico
+Praça Central, Vidro
+Loja de Eletrônicos, Eletrônicos
+Supermercado XYZ, Plástico
+Parque Municipal, Vidro
